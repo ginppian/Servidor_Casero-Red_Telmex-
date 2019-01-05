@@ -42,7 +42,7 @@ El router tiene 2 direcciones, una en el extremo izquierdo (por así decirlo) qu
 Para acceder a nuestro router, basta con poner cualquiera de las 2 direcciones. Por lo general se usa para la dirección privada la 192.168.1.254 y si queremos conocer la pública podemos ejecutar un comando o entrar a algun sitio de internet como <a href="https://www.whatismyip.com">what is my ip</a>
 
 <p align="center">
-	<img src="img/img3.png" height="" width="">
+	<img src="img/img33.png" height="" width="">
 </p>
 
 Cualquiera de esas 2 usamos para acceder al router:
